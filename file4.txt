@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 modified in second
+=======
+<<<<<<< HEAD
+file 4
+modified in first
+=======
+modified in second
+>>>>>>> second
+>>>>>>> fourth
