@@ -2,6 +2,9 @@ file 2
 <<<<<<< HEAD
 modified in master
 modified in second
+<<<<<<< HEAD
 =======
 modified in first
 >>>>>>> first
+=======
+>>>>>>> second
